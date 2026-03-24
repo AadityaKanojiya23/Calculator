@@ -20,7 +20,7 @@ button.forEach(button =>{
             input.value = string;
         }
         else{
-            string += value;
+            string += value; 
             input.value = string;
         }
     })
